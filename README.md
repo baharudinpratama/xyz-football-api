@@ -42,7 +42,7 @@ Untuk fleksibilitas branding, aplikasi ini bisa dinamai ulang menjadi:
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/your-username/xyz-football-api.git
+git clone https://github.com/baharudinpratama/xyz-football-api.git
 cd xyz-football-api
 ```
 
