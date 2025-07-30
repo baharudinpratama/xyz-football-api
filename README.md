@@ -95,7 +95,7 @@ php artisan serve
 ## 📢 Dokumentasi API Lengkap
 
 Seluruh dokumentasi endpoint lengkap tersedia di Postman berikut:\
-➡️ [**Postman Collection Link**](https://www.postman.com/cryosat-observer-63638233/workspace/xyz)
+➡️ [**Postman Collection Link**](https://www.postman.com/cryosat-observer-63638233/workspace/xyz/collection/19319922-5f584806-1316-410f-8102-5742e5b8a677?action=share&source=copy-link&creator=19319922&active-environment=e7ca43ac-a463-4e9e-a857-72532d764b75) 
 
 > ⚠️ Rate limit berlaku untuk login dan akses API, default 60 request/menit.
 
